@@ -13,4 +13,4 @@ It has the following functionality:-
  
 <b>Circuit Diagram</b>
 
-<img src="fan_ckt">
+<img src="fan_ckt.png">
