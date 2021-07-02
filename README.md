@@ -10,6 +10,10 @@ It has the following functionality:-
     1.  Orange - Too hot
     2.  Green - Normal
     3.  Blue - Too cold
+
+<b>Project simulation link</b>
+
+https://www.tinkercad.com/things/9eL6hKeO3Dj-copy-of-q6/editel?sharecode=CmWX8u7ISqYwlnBXQWK7J98tR5BoBJh9qMcCAMfo0Os
  
 <b>Circuit Diagram</b>
 
